@@ -28,4 +28,4 @@ My name is Yash Shinde, Pursuing computer science and engineering at Amity Unive
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashshinde03&" alt="yashshinde03" /></p>
 
-https://github-profile-trophy.vercel.app/?username=yashshinde03&row=2&column=3
+[![trophy](https://github-profile-trophy.vercel.app/?username=yashshinde03&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)

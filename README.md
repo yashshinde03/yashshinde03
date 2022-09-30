@@ -20,12 +20,15 @@ My name is Yash Shinde, Pursuing computer science and engineering at Amity Unive
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![SCIKIT LEARN](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Streamlit](	https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 
 ## &#x1f4c8; GitHub Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashshinde03&show_icons=true&locale=en&layout=compact" alt="yashshinde03" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashshinde03&show_icons=true&locale=en&layout=compact" alt="yashshinde03" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yashshinde03&show_icons=true&locale=en" alt="yashshinde03" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yashshinde03&show_icons=true" alt="yashshinde03" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashshinde03&" alt="yashshinde03" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yashshinde03&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=yashshinde03&" alt="yashshinde03" /></p>

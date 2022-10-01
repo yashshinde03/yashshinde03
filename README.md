@@ -25,7 +25,7 @@ My name is Yash Shinde, Pursuing computer science and engineering at Amity Unive
 ![Streamlit](	https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 
 ## &#x1f4c8; GitHub Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashshinde03&show_icons=true&locale=en&layout=compact" alt="yashshinde03" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashshinde03&show_icons=true&locale=en&" alt="yashshinde03"/></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yashshinde03&show_icons=true" alt="yashshinde03" /></p>
 

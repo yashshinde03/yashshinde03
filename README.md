@@ -24,6 +24,11 @@ My name is Yash Shinde, Pursuing computer science and engineering at Amity Unive
 ![SCIKIT LEARN](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Streamlit](	https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 
+## <img src="https://user-images.githubusercontent.com/83110202/201537590-663af7db-2a7c-4a34-af14-f1cdf56678c0.png" width="30px" height="30px" /> Hacktoberfest 2022
+[![@yashshinde03's Holopin board](https://holopin.me/yashshinde03)](https://holopin.io/@yashshinde03)
+
+
+
 ## &#x1f4c8; GitHub Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashshinde03&show_icons=true&locale=en&" alt="yashshinde03"/></p>
 

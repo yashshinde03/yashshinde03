@@ -139,6 +139,26 @@ I am a student, currently studying in Amity University Mumbai. I'm fascinated wi
 						<span><strong>VS Code</strong></span><br/>
 						<img height="64px" width="64px" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png">
 					</td>
+					<td width="25%" align="center">
+						<span><strong>Android Studio</strong></span><br/>
+						<img height="64px" width="64px" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Anaconda</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Jupyter Notebook</strong></span><br/>
+						<img height="64px" width="64px" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Notion</strong></span><br/>
+						<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1024px-Notion-logo.svg.png">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Postman</strong></span><br/>
+						<img height="64px" width="64px" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png">
+					</td>
 				</tr>
 			</tbody>
 		</table>

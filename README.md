@@ -1,39 +1,179 @@
+# Welcome to my github! 👋
+
+
 ![resize-16586419581261824506Addasubheading](https://user-images.githubusercontent.com/83110202/193270295-2db4767c-79a0-414d-813c-4d448208df69.png)
 
 
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-My name is Yash Shinde, Pursuing computer science and engineering at Amity University Maharashtra. I'm from India, living in Navi Mumbai. Frontend Developer and AI / ML enthusiast. You can find me on  <a href="https://www.linkedin.com/in/yash-shinde-134560202/" target="_blank"><img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn </a>
+## About me :mortar_board:
+I am a student, currently studying in Amity University Mumbai. I'm fascinated with Artificial Intelligence and Machine Learning technologies 😍. This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **Knowledge is the eye of desire and can become the pilot of the soul**. 🧠
 
-## 🔧 Technologies & Tools
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![SCIKIT LEARN](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Streamlit](	https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+## What I know :computer:
+- **Programming Languages (Data Structures & Algorithms)**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>Python</strong></span><br/>
+						<img height="64px" width="64px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Python-Dark.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>C</strong></span><br/>
+						<img height="64px" width="64px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/C.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Java</strong></span><br/>
+						<img height="64px" width="64px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
+- **Frontend Development**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td align="center">
+						<span><strong>HTML 5</strong></span><br/>
+						<img height="64px" width="64px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
+					</td>
+					<td align="center">
+						<span><strong>CSS 3</strong></span><br/>
+						<img height="64px" width="64px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+					</td>
+					<td align="center">
+						<span><strong>Javascript</strong></span><br/>
+						<img height="64px" width="64px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+					</td>
+					<td align="center">
+						<span><strong>Bootstrap</strong></span><br/>
+						<img height="64px" width="64px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
+					</td>
+					<td align="center">
+						<span><strong>React</strong></span><br/>
+						<img height="64px" width="64px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg">
+					</td>
+				</tr>
+				<!--<tr>
+					<td align="center">
+						<span><strong>Next JS</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/nextjs-icon.svg">
+					</td>
+					<td align="center">
+						<span><strong>Vue.JS</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/vue.svg">
+					</td>
+				</tr>-->
+			</tbody>
+		</table>
+	</center
+	
+- **Backend Development**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>Node JS</strong></span><br/>
+						<img height="64px" width="64px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Express</strong></span><br/>
+						<img height="64px" width="64px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>MongoDB</strong></span><br/>
+						<img height="64px" width="64px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>MySQL</strong></span><br/>
+						<img height="64px" width="64px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg">
+					</td>
+          <td align="center">
+						<span><strong>PHP</strong></span><br/>
+						<img height="64px" width="64px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
 
-## <img src="https://user-images.githubusercontent.com/83110202/201537590-663af7db-2a7c-4a34-af14-f1cdf56678c0.png" width="30px" height="30px" /> Hacktoberfest 2022
-[![@yashshinde03's Holopin board](https://holopin.me/yashshinde03)](https://holopin.io/@yashshinde03)
+- **Operating System**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>Windows</strong></span><br/>
+						<img height="64px" width="64px" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Ubuntu</strong></span><br/>
+						<img height="64px" width="64px" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Linux Mint</strong></span><br/>
+						<img height="64px" width="64px" src="https://user-images.githubusercontent.com/25181517/186884159-4b5e122b-95de-4a32-b10b-7f6fdffa4c5a.png">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
+
+- **Tools**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>PyCharm</strong></span><br/>
+						<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/768px-PyCharm_Icon.svg.png?20200803065702">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Intellij</strong></span><br/>
+						<img height="64px" width="64px" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>VS Code</strong></span><br/>
+						<img height="64px" width="64px" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
+## What I want to do next :thinking:
+- Delve into AI and ML
+- Get a Job in Product Based Companies
+- To win various hackathons
+
+## Reach me 
+[![Github](https://img.shields.io/github/followers/yashshinde03?label=Follow&style=social)](https://github.com/yashshinde03)
+[![Instagram](https://img.shields.io/badge/-@yash_shinde_10_3-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yash_shinde_10_3/)](https://www.instagram.com/yash_shinde_10_3/)
+[![Linkedin](https://img.shields.io/badge/-Yash%20Shinde-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yash-shinde-134560202/)](https://www.linkedin.com/in/yash-shinde-134560202/)
+[![Mail](https://img.shields.io/badge/-yashrshinde03@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/yash-shinde-134560202/)](mailto:yashrshinde03@gmail.com)
 
 
+### Interesting stats
 
-## &#x1f4c8; GitHub Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashshinde03&show_icons=true&locale=en&" alt="yashshinde03"/></p>
+![Yash's stats](https://github-readme-stats.vercel.app/api?username=yashshinde03&show_icons=true&count_private=true&hide=stars)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yashshinde03&show_icons=true" alt="yashshinde03" /></p>
+Thanks for stopping by! 😁
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashshinde03&" alt="yashshinde03" /></p>
+![](https://komarev.com/ghpvc/?username=yashshinde03&color=blueviolet)
 
+<!--
+**Sarthakbh321/sarthakbh321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->

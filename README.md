@@ -99,7 +99,32 @@ I am a student, currently studying in Amity University Mumbai. I'm fascinated wi
 			</tbody>
 		</table>
 	</center>
-
+- **Python Framework**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>Tensorflow</strong></span><br/>
+						<img height="64px" width="64px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>OpenCV</strong></span><br/>
+						<img height="64px" width="64px" src="https://user-images.githubusercontent.com/83110202/206860482-eeb170b7-62db-47d1-bc92-5f1507586732.png">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Scikit Learn</strong></span><br/>
+						<img height="64px" width="130px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>NLTK</strong></span><br/>
+						<img height="64px" width="64px" src="https://miro.medium.com/max/592/1*YM2HXc7f4v02pZBEO8h-qw.png">
+					</td>
+				</tr>
+				</tr>
+			</tbody>
+		</table>
+	</center>
 - **Operating System**
 	<center>
 		<table>
@@ -167,7 +192,8 @@ I am a student, currently studying in Amity University Mumbai. I'm fascinated wi
 - Delve into AI and ML
 - Get a Job in Product Based Companies
 - To win various hackathons
-
+## Hacktoberfest 2022
+[![@yashshinde03's Holopin board](https://holopin.me/yashshinde03)](https://holopin.io/@yashshinde03)
 ## Reach me 
 [![Github](https://img.shields.io/github/followers/yashshinde03?label=Follow&style=social)](https://github.com/yashshinde03)
 [![Instagram](https://img.shields.io/badge/-@yash_shinde_10_3-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yash_shinde_10_3/)](https://www.instagram.com/yash_shinde_10_3/)
@@ -178,22 +204,12 @@ I am a student, currently studying in Amity University Mumbai. I'm fascinated wi
 ### Interesting stats
 
 ![Yash's stats](https://github-readme-stats.vercel.app/api?username=yashshinde03&show_icons=true&count_private=true&hide=stars)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashshinde03&" alt="yashshinde03" /></p>
+
 
 Thanks for stopping by! 😁
 
 ![](https://komarev.com/ghpvc/?username=yashshinde03&color=blueviolet)
 
-<!--
-**Sarthakbh321/sarthakbh321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

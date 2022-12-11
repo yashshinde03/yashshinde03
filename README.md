@@ -172,6 +172,8 @@ I am a student, currently studying in Amity University Mumbai. I'm fascinated wi
 						<span><strong>Anaconda</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
 					</td>
+				</tr>
+				<tr>
 					<td width="25%" align="center">
 						<span><strong>Jupyter Notebook</strong></span><br/>
 						<img height="64px" width="64px" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png">

@@ -201,11 +201,6 @@ I am a student, currently studying in Amity University Mumbai. I'm fascinated wi
 [![Mail](https://img.shields.io/badge/-yashrshinde03@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/yash-shinde-134560202/)](mailto:yashrshinde03@gmail.com)
 
 
-### Interesting stats
-
-![Yash's stats](https://github-readme-stats.vercel.app/api?username=yashshinde03&show_icons=true&count_private=true&hide=stars)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashshinde03&" alt="yashshinde03" /></p>
-
 
 Thanks for stopping by! 😁
 
